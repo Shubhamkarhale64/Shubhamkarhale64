@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Shubham G. Karhale 👋
 
-<!--
-**Shubhamkarhale64/Shubhamkarhale64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Student | Software Developer | Data Analyst | Aspiring Data Scientist
 
-Here are some ideas to get you started:
+🎓 Third-Year B.Sc. Computer Science Student  
+🏫 Savitribai Phule Pune University (SPPU)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- Passionate about Software Development, Data Analytics and Data Science.
+- Learning Python programming and SQL.
+- Practicing data analysis using Excel and Power BI.
+- Interested in building real-world software applications.
+- Currently developing MY TURF – Online Turf Booking System.
+- Exploring Data Science and Machine Learning.
+
+## 🛠️ Technical Skills
+
+**Programming**
+- Python
+- Java
+- SQL
+
+**Data Analytics**
+- Microsoft Excel
+- Power BI
+- Data Cleaning
+- Data Analysis
+
+**Database**
+- MySQL
+- DBMS
+
+**Software Development**
+- Django
+- HTML
+- CSS
+
+**Tools**
+- VS Code
+- Git
+- GitHub
+
+## 🚀 Projects
+
+### 1. MY TURF – Online Turf Booking System
+Python | Django | HTML | CSS | MySQL
+
+## 🎯 Career Interests
+
+- Software Engineering Intern
+- Data Analyst
+- Data Scientist
+
+## 📫 Connect With Me
+
+- GitHub: Shubhamkarhale64
+- LinkedIn: Shubham Karhale
+
