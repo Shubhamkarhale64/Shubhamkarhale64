@@ -1,4 +1,4 @@
-# Hi, I'm Shubham G. Karhale 👋
+# Hi, I'm Shubham  Karhale 👋
 
 ### Computer Science Student | Software Developer | Data Analyst | Aspiring Data Scientist
 
